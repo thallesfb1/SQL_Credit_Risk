@@ -32,7 +32,7 @@ finrisk-sql/
 └── README.md
 ```
 ## Diagrama das tabelas
-![Diagrama](postgres - finrisk_bank - public.png)
+![Diagrama das Tabelas](postgres%20-%20finrisk_bank%20-%20public.png)
 ---
 
 ## 🗄️ Modelagem de Dados
