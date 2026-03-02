@@ -31,7 +31,8 @@ finrisk-sql/
 │
 └── README.md
 ```
-
+## Diagrama das tabelas
+![Diagrama](postgres - finrisk_bank - public.png)
 ---
 
 ## 🗄️ Modelagem de Dados
@@ -214,5 +215,5 @@ cd finrisk-sql
 
 Desenvolvido como projeto de portfólio durante migração de carreira para a área de **Dados com foco em Crédito e Risco**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/thalles-freitas-brettas)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github)](https://github.com/thallesfb1)
